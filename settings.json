@@ -1,8 +1,0 @@
-{
-	"serverids" : ["100271193604521984","139183077304958976","133655514679738368"],
-	"serverpermissions" : {
-		"100271193604521984" : {"ttvemotes" : "true", "textvoice" : "false", "commands" : "true", "secrethitler" : "true", "misc" : "true"}, 
-		"139183077304958976" : {"ttvemotes" : "true", "textvoice" : "true", "commands" : "true", "secrethitler" : "true", "misc" : "true"}, 
-		"133655514679738368" : {"ttvemotes" : "true", "textvoice" : "false", "commands" : "true", "secrethitler" : "true", "misc" : "true"}
-	}
-}
